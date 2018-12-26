@@ -35,6 +35,7 @@ public class DivideApple {
 		// TODO Auto-generated method stub
 		int n = 3;
 		System.out.println(getInitial(n));
+		System.out.println();
 	}
 
 }
